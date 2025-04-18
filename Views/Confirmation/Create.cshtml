@@ -1,0 +1,31 @@
+﻿@model ShelburneMemorialWeb.ViewModels.ConfirmationVM
+@{
+    ViewData["Title"] = "Confirmation";
+
+}
+<h1>Confirmation</h1>
+
+
+        <form asp-controller="Confirmation" asp-action="Create" method="post">
+      
+                
+@*                     <label for="OrderNumber">Order Number :</label>
+                    <input type="text" name="OrderNumber" id="OrderNumber" /> *@
+                    <label asp-for="OrderNumber" class="control-label">Order Number :</label>
+                    <input asp-for="OrderNumber" class="form-control" />
+                    
+
+                    <br />
+                   
+                    <label asp-for="ChequeNumber" class="control-label">Cheque Number :</label>
+                    
+                    <input asp-for="ChequeNumber" class="form-control" />
+                   
+
+                    <br/>
+              
+                    <label asp-for="OrderDate" class="control-label">Order Date :</label>
+                    <input asp-for="OrderDate" class="form-control" />
+               
+
+        </form>
