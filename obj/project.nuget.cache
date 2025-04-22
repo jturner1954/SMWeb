@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m34NonNsyog=",
+  "dgSpecHash": "reBQjalzwRo=",
   "success": true,
-  "projectFilePath": "C:\\Git\\ShelburneMemorialWeb\\ShelburneMemorialWeb.csproj",
+  "projectFilePath": "C:\\Git\\SMWeb\\ShelburneMemorialWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joann\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\joann\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,69 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Git\\ShelburneMemorialWeb\\",
+  "WorkspaceRootPath": "C:\\Git\\SMWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\views\\stoneinformation\\stoneinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\stoneinformation\\stoneinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\models\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:models\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\viewmodels\\confirmationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:viewmodels\\confirmationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\views\\confirmation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\views\\confirmation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\confirmation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\controllers\\confirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:controllers\\confirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\viewmodels\\stoneinformationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:viewmodels\\stoneinformationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\controllers\\stoneinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:controllers\\stoneinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\viewmodels\\confirmationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:viewmodels\\confirmationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\models\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:models\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\controllers\\confirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:controllers\\confirmationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\shelburnememorialweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\shelburnememorialweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:shelburnememorialweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\shelburnememorialweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|c:\\git\\smweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AAA6E9F8-4AC5-4683-A775-580E96CC2410}|ShelburneMemorialWeb.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -74,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,115 +158,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConfirmationVM.cs",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\ViewModels\\ConfirmationVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ConfirmationVM.cs",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\ViewModels\\ConfirmationVM.cs",
-              "RelativeToolTip": "ViewModels\\ConfirmationVM.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAcAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StoneInformation.cs",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Controllers\\StoneInformation.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoneInformation.cs",
+              "ToolTip": "C:\\Git\\SMWeb\\Controllers\\StoneInformation.cs",
+              "RelativeToolTip": "Controllers\\StoneInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T16:56:00.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T21:03:56.228Z",
+              "WhenOpened": "2025-04-21T17:52:48.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Confirmation.cs",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Models\\Confirmation.cs",
-              "RelativeDocumentMoniker": "Models\\Confirmation.cs",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Models\\Confirmation.cs",
-              "RelativeToolTip": "Models\\Confirmation.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAQwHgAAAAAAAAAAAAAAA==",
+              "Title": "StoneInformationVM.cs",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\ViewModels\\StoneInformationVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\StoneInformationVM.cs",
+              "ToolTip": "C:\\Git\\SMWeb\\ViewModels\\StoneInformationVM.cs",
+              "RelativeToolTip": "ViewModels\\StoneInformationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T14:47:03.482Z",
+              "WhenOpened": "2025-04-21T17:55:56.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Title": "StoneInformation.cshtml",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Views\\StoneInformation\\StoneInformation.cshtml",
+              "RelativeDocumentMoniker": "Views\\StoneInformation\\StoneInformation.cshtml",
+              "ToolTip": "C:\\Git\\SMWeb\\Views\\StoneInformation\\StoneInformation.cshtml",
+              "RelativeToolTip": "Views\\StoneInformation\\StoneInformation.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwF8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T13:53:12.64Z",
+              "WhenOpened": "2025-04-21T17:54:03.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T16:49:00.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Views\\Confirmation\\Create.cshtml",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Views\\Confirmation\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Confirmation\\Create.cshtml",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Views\\Confirmation\\Create.cshtml",
+              "ToolTip": "C:\\Git\\SMWeb\\Views\\Confirmation\\Create.cshtml",
               "RelativeToolTip": "Views\\Confirmation\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-14T16:41:18.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ConfirmationVM.cs",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\ViewModels\\ConfirmationVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ConfirmationVM.cs",
+              "ToolTip": "C:\\Git\\SMWeb\\ViewModels\\ConfirmationVM.cs",
+              "RelativeToolTip": "ViewModels\\ConfirmationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T16:48:40.598Z",
+              "WhenOpened": "2025-04-14T16:56:00.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Confirmation.cs",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Models\\Confirmation.cs",
+              "RelativeDocumentMoniker": "Models\\Confirmation.cs",
+              "ToolTip": "C:\\Git\\SMWeb\\Models\\Confirmation.cs",
+              "RelativeToolTip": "Models\\Confirmation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:47:03.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-13T21:05:06.552Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Git\\SMWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:32:41.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ConfirmationController.cs",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Controllers\\ConfirmationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfirmationController.cs",
+              "ToolTip": "C:\\Git\\SMWeb\\Controllers\\ConfirmationController.cs",
+              "RelativeToolTip": "Controllers\\ConfirmationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:56:29.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Git\\SMWeb\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,46 +276,120 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ConfirmationController.cs",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Controllers\\ConfirmationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ConfirmationController.cs",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Controllers\\ConfirmationController.cs",
-              "RelativeToolTip": "Controllers\\ConfirmationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T17:56:29.545Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Git\\SMWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T22:35:54.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T22:32:41.516Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Git\\SMWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T21:03:56.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Git\\SMWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:49:00.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Git\\SMWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-13T21:05:06.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Git\\SMWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADmMwIAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T13:08:20.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap-utilities.css.map",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "ToolTip": "C:\\Git\\SMWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADvIgMAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T13:08:54.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap-reboot.min.css.map",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "ToolTip": "C:\\Git\\SMWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACHWQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T13:08:34.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Git\\SMWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:48:40.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Git\\SMWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-14T13:26:55.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Git\\SMWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -299,11 +397,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ShelburneMemorialWeb.csproj",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\ShelburneMemorialWeb.csproj",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\ShelburneMemorialWeb.csproj",
               "RelativeDocumentMoniker": "ShelburneMemorialWeb.csproj",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\ShelburneMemorialWeb.csproj",
+              "ToolTip": "C:\\Git\\SMWeb\\ShelburneMemorialWeb.csproj",
               "RelativeToolTip": "ShelburneMemorialWeb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -311,11 +409,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Git\\SMWeb\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -323,11 +421,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Git\\ShelburneMemorialWeb\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Git\\SMWeb\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Git\\ShelburneMemorialWeb\\appsettings.Development.json",
+              "ToolTip": "C:\\Git\\SMWeb\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

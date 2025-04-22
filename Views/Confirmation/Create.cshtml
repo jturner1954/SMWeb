@@ -3,29 +3,37 @@
     ViewData["Title"] = "Confirmation";
 
 }
-<h1>Confirmation</h1>
 
+<h1>
+@*     <img src= <img src="@img\SMLogo.png"  /> *@
+   
+</h1>
+<h2>Confirmation</h2>
+<label>Order Number     : ;&nbsp;&nbsp  </label>
+<input id="OrderNumber" name="OrderNumber"  />
+<label>Cheque Number    :&nbsp;&nbsp;</label>
+<input id="ChequeNumber" name="ChequeNumber"  />
+<label>Order Date    : &nbsp;&nbsp</label>
+<input type="date" id="OrderDate" />
+<br />
+<br />
+<label>Family Name      : &nbsp;&nbsp;&nbsp;&nbsp</label>
+<input id="ConfirmationFamilyName" name="ConfirmationFamilyName" />
 
-        <form asp-controller="Confirmation" asp-action="Create" method="post">
-      
-                
-@*                     <label for="OrderNumber">Order Number :</label>
-                    <input type="text" name="OrderNumber" id="OrderNumber" /> *@
-                    <label asp-for="OrderNumber" class="control-label">Order Number :</label>
-                    <input asp-for="OrderNumber" class="form-control" />
-                    
-
-                    <br />
-                   
-                    <label asp-for="ChequeNumber" class="control-label">Cheque Number :</label>
-                    
-                    <input asp-for="ChequeNumber" class="form-control" />
-                   
-
-                    <br/>
-              
-                    <label asp-for="OrderDate" class="control-label">Order Date :</label>
-                    <input asp-for="OrderDate" class="form-control" />
-               
-
-        </form>
+<br />
+<br />
+<label>Last Name       :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp</label>
+<input id="ConfirmationLastName" name="ConfirmationLastName" />
+<label>First Name       :&nbsp;&nbsp</label>
+<input id="ConfirmationFirstName" name="ConfirmationFirstName" />
+<br />
+<br />
+<label>Family Address : &nbsp;&nbsp;&nbsp;&nbsp</label>
+<input id="ConfirmationAddress" name="ConfirmationAddress" />
+<br />
+<br />
+<label>Name of Deceased :   </label>
+<input id="ConfirmationNameofDeceased" name="ConfirmationNameofDeceased" />
+<br />
+<br />
+<button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("Index", "StoneInformation")'">Next</button>

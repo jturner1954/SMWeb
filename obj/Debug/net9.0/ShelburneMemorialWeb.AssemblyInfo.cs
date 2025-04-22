@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShelburneMemorialWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50b663035e4038c86636b4309027d952f0c4593b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShelburneMemorialWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShelburneMemorialWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

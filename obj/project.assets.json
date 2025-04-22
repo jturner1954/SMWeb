@@ -7497,11 +7497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\ShelburneMemorialWeb\\ShelburneMemorialWeb.csproj",
+      "projectUniqueName": "C:\\Git\\SMWeb\\ShelburneMemorialWeb.csproj",
       "projectName": "ShelburneMemorialWeb",
-      "projectPath": "C:\\Git\\ShelburneMemorialWeb\\ShelburneMemorialWeb.csproj",
+      "projectPath": "C:\\Git\\SMWeb\\ShelburneMemorialWeb.csproj",
       "packagesPath": "C:\\Users\\joann\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\ShelburneMemorialWeb\\obj\\",
+      "outputPath": "C:\\Git\\SMWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
